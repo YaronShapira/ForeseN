@@ -1,4 +1,4 @@
-# They call me Yaron. 👋
+# They call me Yaron 👋
 
 
 I am a positive, enthusiastic and competent Web Developer / Pyhon Programmer who loves coding and learning new stuff.\
