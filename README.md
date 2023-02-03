@@ -1,13 +1,11 @@
 <h1 align="center">Hi, I'm Yaron Shapira  👋</h1>
 <h3 align="center">I am a Full Stack Developer</h3>
 
-- ✨ I am a team player, communication is a top priority.
+- ✨ I Bring Ideas To Reality.
 
 - 👨‍💻 Take a look at my latest project - [Editorquix](https://www.editorquix.com/)
 
 - 📫 You can reach me at **yaronshapiradev@gmail.com**
-
-- ⚡ In my free time I love watching quality movies and video games!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
