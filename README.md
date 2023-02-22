@@ -1,11 +1,13 @@
 <h1 align="center">Hi, I'm Yaron Shapira  👋</h1>
 <h3 align="center">I am a Full Stack Developer</h3>
 
-- ✨ I Bring Ideas To Reality.
+- 🔭 I’m currently working on [Airbnb](https://github.com/YaronShapira/Airbnb-Frontend)
 
 - 👨‍💻 Take a look at my latest project - [Editorquix](https://www.editorquix.com/)
 
 - 📫 You can reach me at **yaronshapiradev@gmail.com**
+
+- ⚡ Fun fact **I may be a full-stack developer, but I can still hold my own in a LAN party**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
